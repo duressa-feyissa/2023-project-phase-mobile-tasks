@@ -91,10 +91,11 @@ class TaskManager {
 
   void printTasksInTableFormat() {
     int length = tasks.length;
-    if (length == 0)
+    if (length == 0) {
       print('\n\nNo tasks found!');
-    else
-      print('\n\nTotal tasks: $length\n');
+      return;
+    }
+    print('\n\nTotal tasks: $length\n');
     print('Title\t\tDue\t\tStatus');
     for (int i = 0; i < length; i++) {
       print(
