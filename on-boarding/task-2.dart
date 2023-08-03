@@ -118,6 +118,20 @@ class TaskManager {
     }
   }
 
+  void printTasksInTableFormat() {
+    int length = tasks.length;
+    if (length == 0) {
+      print('\n\nNo tasks found!');
+      return;
+    }
+    print('\n\nTotal tasks: $length\n');
+    print('Title\t\tDue\t\tStatus');
+    for (int i = 0; i < length; i++) {
+      print(
+          '${tasks[i].getTitle}\t\t${tasks[i].formatDate(tasks[i].getDue)}\t${tasks[i].getStatus}');
+    }
+  }
+
   void viewCompletedTask() {
     if (tasks.where((task) => task.getStatus == 'completed').isEmpty) {
       print('\n\nNo tasks found!');
@@ -171,7 +185,8 @@ class TaskManager {
     print('4. View Completed Tasks');
     print('5. View Pending Tasks');
     print('6. View All Tasks');
-    print('7. Exit\n');
+    print('7. View All Tasks in Table Format');
+    print('8. Exit\n');
     print('\nEnter your choice: ');
 
     String choice = stdin.readLineSync()!;
@@ -214,6 +229,9 @@ class TaskManager {
         printTasks();
         break;
       case 7:
+        printTasksInTableFormat();
+        break;
+      case 8:
         print('Goodbye!');
         exit(0);
       default:
