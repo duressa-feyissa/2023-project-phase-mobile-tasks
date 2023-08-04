@@ -43,7 +43,19 @@ class AddTask extends StatelessWidget {
           ),
         ),
       ),
-      body: const NewTask(),
+      body: Container(
+          height: double.infinity,
+          decoration: const BoxDecoration(
+            gradient: LinearGradient(
+              colors: [
+                Color.fromARGB(255, 241, 245, 249),
+                Color.fromARGB(255, 231, 238, 246)
+              ],
+              begin: Alignment.topCenter,
+              end: Alignment.bottomCenter,
+            ),
+          ),
+          child: const NewTask()),
     );
   }
 }
