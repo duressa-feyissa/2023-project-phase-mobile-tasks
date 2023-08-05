@@ -3,6 +3,7 @@
 ## Getting Started
 ### Home Screen
 <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/add_task/screens/home.png" />
+
 ### Add Task Screen
 <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/add_task/screens/add_new_task.png" />
 
