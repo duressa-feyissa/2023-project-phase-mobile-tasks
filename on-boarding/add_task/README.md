@@ -1,12 +1,8 @@
 # ADD TASKS
 
-## Getting Started
-### Home Screen
-<img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/add_task/screens/home.png" />
+## Original Add Task and Customize Add Task
+<img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/add_task/screenshot/addTask.png"> <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/add_task/screenshot/customizeAddTask.png">
 
-### Add Task Screen
-<img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/add_task/screens/add_new_task.png" />
-
-### Custumize Add Task Screen
-<img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/add_task/screens/Custumize_Add_new_task.png" /> 
-
+<br /><br />
+## Others
+<img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_list_home/screenshoot/home.png" > <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_list/screenshot/todoList.png"> <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_list/screenshot/customizeTodoList.png"> <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/task_detail/screenshot/taskDetail.png"> <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/task_detail/screenshot/customizeTaskDetail.png">
