@@ -1,4 +1,4 @@
-## Todo List and Customize Todo List
+## Todo List
 <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_list/screenshot/todoList.png"> <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_list/screenshot/customizeTodoList.png"> 
 
 <br /><br />
