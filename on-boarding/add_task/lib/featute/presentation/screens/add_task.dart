@@ -30,16 +30,6 @@ class AddTask extends StatelessWidget {
           ],
           backgroundColor: Colors.white,
           flexibleSpace: Container(
-            decoration: const BoxDecoration(
-              gradient: LinearGradient(
-                colors: [
-                  Color.fromARGB(255, 241, 245, 249),
-                  Color.fromARGB(255, 236, 241, 247)
-                ],
-                begin: Alignment.topCenter,
-                end: Alignment.bottomCenter,
-              ),
-            ),
             padding: const EdgeInsets.only(bottom: 25),
             alignment: Alignment.bottomCenter,
             child: const Text(
@@ -53,19 +43,7 @@ class AddTask extends StatelessWidget {
           ),
         ),
       ),
-      body: Container(
-          height: double.infinity,
-          decoration: const BoxDecoration(
-            gradient: LinearGradient(
-              colors: [
-                Color.fromARGB(255, 241, 245, 249),
-                Color.fromARGB(255, 231, 238, 246)
-              ],
-              begin: Alignment.topCenter,
-              end: Alignment.bottomCenter,
-            ),
-          ),
-          child: const NewTask()),
+      body: const SizedBox(height: double.infinity, child: NewTask()),
     );
   }
 }
