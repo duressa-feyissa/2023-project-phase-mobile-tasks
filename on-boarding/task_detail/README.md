@@ -1,4 +1,4 @@
-## Original task_detail and Customize task_detail
+## Task detail and Customize Task detail
 <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/task_detail/screenshot/taskDetail.png"> <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/task_detail/screenshot/customizeTaskDetail.png">
 
 <br /><br />
