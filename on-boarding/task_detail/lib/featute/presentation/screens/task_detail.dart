@@ -11,18 +11,8 @@ class TaskDetail extends StatelessWidget {
       title: 'Todo List',
       home: Scaffold(
           body: SafeArea(
-        child: Container(
+        child: SizedBox(
           height: double.infinity,
-          decoration: const BoxDecoration(
-            gradient: LinearGradient(
-              colors: [
-                Color.fromARGB(255, 241, 245, 249),
-                Color.fromARGB(255, 231, 238, 246)
-              ],
-              begin: Alignment.topCenter,
-              end: Alignment.bottomCenter,
-            ),
-          ),
           child: Expanded(
             child: Container(
               padding: const EdgeInsets.only(top: 5, left: 10, right: 10),
