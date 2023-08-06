@@ -12,9 +12,16 @@ class Label extends StatelessWidget {
       child: Text(
         label,
         style: const TextStyle(
-            fontSize: 18,
+            fontSize: 19,
             fontWeight: FontWeight.bold,
-            color: Color.fromARGB(255, 238, 111, 87)),
+            shadows: [
+              Shadow(
+                color: Colors.black12,
+                offset: Offset(0, 2),
+                blurRadius: 2,
+              )
+            ],
+            color: Color.fromARGB(255, 233, 105, 79)),
       ),
     );
   }
