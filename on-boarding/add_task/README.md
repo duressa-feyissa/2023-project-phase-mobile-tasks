@@ -1,6 +1,10 @@
 ## ADD TASKS
 
-<img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_list_home/screenshoot/home.png" > <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/add_task/screenshot/addTask.png"> <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/add_task/screenshot/customizeAddTask.png">
+<div style={"width:100%"}>
+<img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_list_home/screenshoot/home.png" >  <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/add_task/screenshot/customizeAddTask.png"> <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/add_task/screenshot/addTask.png">
+  
+</div>
+
 
 <br /><br />
 ## Others
