@@ -1,16 +1,7 @@
-# todo_list
+## Todo List
+<img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_list/screenshot/todoList.png"> <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_list/screenshot/customizeTodoList.png"> 
 
-A new Flutter project.
+<br /><br />
+## Others
+ <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/add_task/screenshot/addTask.png"> <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/add_task/screenshot/customizeAddTask.png"> <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/task_detail/screenshot/taskDetail.png"> <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/task_detail/screenshot/customizeTaskDetail.png"> <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_list_home/screenshoot/home.png" > 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
