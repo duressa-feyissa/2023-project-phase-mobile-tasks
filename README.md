@@ -1,10 +1,7 @@
 # 2023-project-phase-mobile-tasks
 
-## Add Task
-<img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/add_task/screenshot/addTask.png">
-
-## Customize Add Task
-<img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/add_task/screenshot/customizeAddTask.png">
+## Add Task            ## Customize Add Task
+<img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/add_task/screenshot/addTask.png"> <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/add_task/screenshot/customizeAddTask.png">
 
 <br /><br />
 ## Others
