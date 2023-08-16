@@ -29,12 +29,8 @@ The app is organized into different screens and widgets for better code modulari
 
 ## Screen Shot
 
-<img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_app/Screen%20Shot/Screenshot%20from%202023-08-16%2013-45-35.png">
-<img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_app/Screen%20Shot/Screenshot%20from%202023-08-16%2013-45-49.png">
-<img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_app/Screen%20Shot/Screenshot%20from%202023-08-16%2012-36-37.png" >
-<img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_app/Screen%20Shot/Screenshot%20from%202023-08-16%2012-36-58.png" >
-<img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_app/Screen%20Shot/Screenshot%20from%202023-08-16%2013-42-22.png" >
-<img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_app/Screen%20Shot/Screenshot%20from%202023-08-16%2013-42-47.png">
+<img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_app/Screen%20Shot/Screenshot%20from%202023-08-16%2013-45-35.png"> <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_app/Screen%20Shot/Screenshot%20from%202023-08-16%2013-45-49.png"> <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_app/Screen%20Shot/Screenshot%20from%202023-08-16%2012-36-37.png" > <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_app/Screen%20Shot/Screenshot%20from%202023-08-16%2012-36-58.png" >
+<img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_app/Screen%20Shot/Screenshot%20from%202023-08-16%2013-42-22.png" > <img src="https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks/blob/main/on-boarding/todo_app/Screen%20Shot/Screenshot%20from%202023-08-16%2013-42-47.png">
 
 
 ## Screens
