@@ -36,16 +36,21 @@ The app is organized into different screens and widgets for better code modulari
 ## Screens
 
 Home: Get start.
+
 TodoList: Shows a list of tasks.
+
 AddEditTask: Allows the user to add a new task or edit an existing one.
+
 TaskDetail: Displays detailed information about a task.
+
 Navigation
 The app uses named routes to navigate between screens. The routes are defined in the main.dart file. You can navigate to different screens using the following routes:
 
-/: Home screen
-/todoList: TodoList screen
-/addEditTask: AddEditTask screen
-/taskDetail: TaskDetail screen
+
+## Edit and Delete Task
+
+`Delete` Swap todo item to left
+`Edit` swap tofo item to right
 
 ## Custom Page Transition
 
