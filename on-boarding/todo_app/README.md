@@ -13,7 +13,7 @@ Flutter: Make sure you have Flutter installed. You can download it from the offi
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/flutter-todo-app.git
+1. Clone the repository: git clone https://github.com/duressa-feyissa/2023-project-phase-mobile-tasks.git
 
 2. Navigate to the project directory: cd todo-app
 
